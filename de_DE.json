@@ -61,7 +61,7 @@
 	"lobby.disable.fly": "{PREFIX} §cDu hast den §eFlug§7-§eModus§c deaktiviert§7!",
 	
 	"lobby.ui.title.updates": "[PREFIX} §eUpdates",
-	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
+	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
 	"lobby.ui.button.updates.close": "§4Schließen",
 	
 	"maintenance.ui.content": "{PREFIX}\n\n§l§cWir sind momentan in Wartungen§r§7!\n§l§cBitte versuche es später erneut§r§7!",

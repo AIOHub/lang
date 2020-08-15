@@ -60,7 +60,7 @@
 	"lobby.disable.fly": "{PREFIX} §cYou have disabled the §eFly§7-§eMode§7!",
 	
 	"lobby.ui.title.updates": "[PREFIX} §eUpdates",
-	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§cClanWars§e Beta§r\n\n§8- §eNew PrivateServer§7-§eSystem",
+	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNew PrivateServer§7-§eSystem",
 	"lobby.ui.button.updates.close": "§4Close",
 	
 	"maintenance.ui.content": "{PREFIX}\n\n§l§cWe are currently in §eMaintenance§r§7!\n§l§cPlease try it again later§r§7!",
