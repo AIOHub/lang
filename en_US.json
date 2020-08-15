@@ -1,5 +1,5 @@
 {
-	"PREFIX": "§cRush§4Unity §8»§r",
+	"PREFIX": "§6Royale§bGames§6MC §8»§r",
 	"localeCode": "en_US",
 	"name": "English",
 	
@@ -59,7 +59,7 @@
 	"lobby.enable.fly": "{PREFIX} §aYou have enabled the §eFly§7-§eMode§7!",
 	"lobby.disable.fly": "{PREFIX} §cYou have disabled the §eFly§7-§eMode§7!",
 	
-	"lobby.ui.title.updates": "[PREFIX} §eUpdates",
+	"lobby.ui.title.updates": "{PREFIX} §eUpdates",
 	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNew PrivateServer§7-§eSystem",
 	"lobby.ui.button.updates.close": "§4Close",
 	
