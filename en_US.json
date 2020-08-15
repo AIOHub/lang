@@ -3,6 +3,7 @@
 	"localeCode": "en_US",
 	"name": "English",
 	
+	"values": {
 	"player.not.exists": "{PREFIX} §cThis player don't exists§7!",
 	
 	"message.cantSelectYourself": "{PREFIX} §cYou can't select yourself§7!",
@@ -151,5 +152,5 @@
 	"securitysystem.cantKickYourself": "{PREFIX} §cYou can't kick yourself§7!",
 	"securitysystem.kickedPlayer": "{PREFIX} §aYou have kicked §e#0#§a because of §e#1#§7!",
 	"securitysystem.noAds": "{PREFIX} §cPlease don't send Links§7!"
-	
+	}
 }
