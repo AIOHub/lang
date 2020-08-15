@@ -36,17 +36,14 @@
 	
 	"lobby.teleporter.button.spawn": "§l§7Spawn",
 	"lobby.teleporter.button.bw": "§cBedWars",
+	"lobby.teleporter.button.cw": "§4Clan§fWars",
+	"lobby.teleporter.button.mlgrush": "§bMLGRush",
 	
 	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
 	"lobby.hide.ui.content": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
 	
 	"lobby.hide.button.show": "§aZeige alle §eSpieler",
 	"lobby.hide.button.hide": "§4Verstecke alle §eSpieler",
-	
-	"lobby.ui.title.nick": "{PREFIX} §l§5Nick",
-	"lobby.ui.content.nick": "{PREFIX} §aAktiviere §7oder §cDeaktiviere §eAutonick§7!",
-	"lobby.ui.button.nick.enable": "§aAktiviere §eAutonick",
-	"lobby.ui.button.nick.disable": "§4Deaktiviere §eAutonick",
 	
 	"lobby.gadget.ui.title": "{PREFIX} §l§5Gadgets",
 	"lobby.ui.content.select.gadget": "{PREFIX} §eWähle ein §5Gadget§e aus§7!",
@@ -62,6 +59,10 @@
 	
 	"lobby.enable.fly": "{PREFIX} §aDu hast den §eFlug§7-§eModus§a aktiviert§7!",
 	"lobby.disable.fly": "{PREFIX} §cDu hast den §eFlug§7-§eModus§c deaktiviert§7!",
+	
+	"lobby.ui.title.updates": "[PREFIX} §eUpdates",
+	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
+	"lobby.ui.button.updates.close": "§4Schließen",
 	
 	"maintenance.ui.content": "{PREFIX}\n\n§l§cWir sind momentan in Wartungen§r§7!\n§l§cBitte versuche es später erneut§r§7!",
 	"maintenance.join.message": "{PREFIX} §cDu hast den Server während den §eWartungen§c betreten§7!",

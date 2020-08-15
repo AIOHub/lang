@@ -3,7 +3,6 @@
 	"localeCode": "en_US",
 	"name": "English",
 	
-	"values": {
 	"player.not.exists": "{PREFIX} §cThis player don't exists§7!",
 	
 	"message.cantSelectYourself": "{PREFIX} §cYou can't select yourself§7!",
@@ -36,17 +35,14 @@
 	
 	"lobby.teleporter.button.spawn": "§l§7Spawn",
 	"lobby.teleporter.button.bw": "§cBedWars",
+	"lobby.teleporter.button.cw": "§4Clan§fWars",
+	"lobby.teleporter.button.mlgrush": "§bMLGRush",
 	
 	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
 	"lobby.hide.ui.content": "{PREFIX} §cHide §7or §aShow §7all §ePlayers§7!",
 	
 	"lobby.hide.button.show": "§aShow §ePlayers",
 	"lobby.hide.button.hide": "§4Hide §ePlayers",
-	
-	"lobby.ui.title.nick": "{PREFIX} §l§5Nick",
-	"lobby.ui.content.nick": "{PREFIX} §aActivate §7or §cDeactivate §eAutonick§7!",
-	"lobby.ui.button.nick.enable": "§aEnable §eAutonick",
-	"lobby.ui.button.nick.disable": "§4Disable §eAutonick",
 	
 	"lobby.gadget.ui.title": "{PREFIX} §l§5Gadgets",
 	"lobby.ui.content.select.gadget": "{PREFIX} §eSelect an §5Gadget§7!",
@@ -63,31 +59,15 @@
 	"lobby.enable.fly": "{PREFIX} §aYou have enabled the §eFly§7-§eMode§7!",
 	"lobby.disable.fly": "{PREFIX} §cYou have disabled the §eFly§7-§eMode§7!",
 	
+	"lobby.ui.title.updates": "[PREFIX} §eUpdates",
+	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§cClanWars§e Beta§r\n\n§8- §eNew PrivateServer§7-§eSystem",
+	"lobby.ui.button.updates.close": "§4Close",
+	
 	"maintenance.ui.content": "{PREFIX}\n\n§l§cWe are currently in §eMaintenance§r§7!\n§l§cPlease try it again later§r§7!",
 	"maintenance.join.message": "{PREFIX} §cYou have successfully entered the server during §emaintenance§7!",
 	"maintenance.toggle.on": "{PREFIX} §aYou have §eactivated §athe §emaintenance§7-§amode§7!",
 	"maintenance.toggle.off": "{PREFIX} §cYou have §edeactivated §cthe §emaintenance§7-§amode§7!",
 	"maintenance.kick.reason": "{PREFIX} §cYou have been kicked from this Server§7!\n§l§4This server is in §emaintenance§7-§amode§r§7!",
-	
-	"groups.noLonger.nicked": "{PREFIX} §r§7You are no longer nicked§7!",
-	"groups.not.nicked": "{PREFIX} §cYou are not nicked§7!",
-	"groups.nickConfig.not.found": "§enicks§7.§eyml §cwas not found§7!\n§cPlease contact an Administrator§7!",
-	"groups.nickedAs": "{PREFIX} §7You are now nicked as §e#0#§7!",
-	"groups.groupNot.exists": "{PREFIX} §cThis Group don't exists§7!",
-	"groups.added.permission": "{PREFIX} §aYou have added the permission §e#0# §ato the group §e#1# §asuccesfully§7.",
-	"groups.form.cancelled": "{PREFIX} §4Cancelled§7!",
-	"groups.created": "{PREFIX} §aYou have created the rank §e#0#§7!",
-	"groups.already.exists": "{PREFIX} §cThis rank already exists§7!",
-	"groups.provide.nameTag": "{PREFIX} §cPlease provide an Nametag§7!",
-	"groups.provide.chatFormat": "{PREFIX} §cPlease provide an ChatFormat§7!",
-	"groups.provide.groupName": "{PREFIX} §cPlease provide an Groupname§7!",
-	"groups.deleteGroup.error": "{PREFIX} §cYou can't delete this Group§7!",
-	"groups.deletedGroup": "{PREFIX} §aYou have removed the rank §e#0#§7!",
-	"groups.provide.permission": "{PREFIX} §cPlease provide an permission§7!",
-	"groups.removed.permission": "{PREFIX} §cYou have removed the permission §e#0# §cfrom the group §e#1# §csuccesfully§7!",
-	"groups.player.notExists": "{PREFIX} §cThis Player don't exists§7!",
-	"groups.player.provide.playerName": "{PREFIX} §cPlease provide an Playername§7!",
-	"groups.player.updatedGroup": "{PREFIX} §aThe Player §e#0# §ahas now recived the Group §e#1#§7!",
 	
 	"clanwars.bed.destroyed": "{PREFIX} §7The Bed of Team #0# §7was destroyed by§c #1#§7!",
 	"clanwars.destroy.own.bed": "{PREFIX} §cYou can't destroy your own bed§7!",
@@ -107,21 +87,6 @@
 	"clanwar.queue.alreadyInClanWar": "{PREFIX} §cYour §eClan §cis already in an §eClanWar§7!",
 	"clanwar.queue.notInClan": "{PREFIX} §cYou are not in an Clan§7!",
 	"clanwar.queue.enemyClanFound": "{PREFIX} §7An enemy Clan was found!",
-	
-	"pserver.title.time.3": "§e●§7●●",
-	"pserver.title.time.2": "§7●§e●§7●",
-	"pserver.title.time.1": "§7●●§e●",
-	"pserver.subtile.create": "§aCreating Server§7!",
-	"pserver.message.created": "{PREFIX} §ePrivate§8-§eServer §acreated§7!",
-	"pserver.message.teleport": "{PREFIX} §aYou will be now transferred§7!",
-	"pserver.form.content": "{PREFIX} §aCreate your own §eP§8-§eServer§7!",
-	"pserver.template.notExists": "{PREFIX} §cThis §ePrivate§7-§eServer Template §cdon't exists§7!",
-	"pserver.template.already.started": "{PREFIX} §cYou have already created a §eServer§c from this §eServer§7-§eGroup§7!\n§cPlease wait until this §eServer§c has been shut down!",
-	"pserver.sendinfo.to.cloud": "{PREFIX} §aSending info to the §eCloud§7...",
-	"pserver.created.server": "{PREFIX} §aCreated Server §e#0#§7-§e#1# §asuccesfully§7...",
-	"pserver.create.form.content": "{PREFIX} §aCreate your own §eP§8-§eServer§7!",
-	"pserver.maintenance.enable": "{PREFIX} §eMaintenance Mode for PServer §aenabled§7!",
-	"pserver.maintenance.disable": "{PREFIX} §eMaintenance Mode for PServer §cdisabled§7!",
 	
 	"bedwars.setup.setspawn": "{PREFIX} §cYou have created the spawn of Team #0#§7!\n§8(§cNext§7: #1# §8)",
 	"bedwars.place.spawner": "{PREFIX} §cYou can't place block on Item-Spawners§7!",
@@ -186,5 +151,5 @@
 	"securitysystem.cantKickYourself": "{PREFIX} §cYou can't kick yourself§7!",
 	"securitysystem.kickedPlayer": "{PREFIX} §aYou have kicked §e#0#§a because of §e#1#§7!",
 	"securitysystem.noAds": "{PREFIX} §cPlease don't send Links§7!"
-	}
+	
 }
