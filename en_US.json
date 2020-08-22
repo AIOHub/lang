@@ -131,8 +131,6 @@
 	"coins.give.provideNumber": "{PREFIX} §cPlease provide an number§7!",
 	"coins.give.notNull": "{PREFIX} §cProvide an number higher then §e0§7!",
 	"coins.money.see": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
-	"coins.setMoney.message": "{PREFIX} §7Your coins have been changed from §2#0#§7 to §e#1#§2 Coins§7!",
-	"coins.setMoney.need": "{PREFIX} §7You need at least §e{$money}§2 Coins§7!",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecasue of #1#§7!",
