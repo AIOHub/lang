@@ -128,8 +128,8 @@
 	"cloudsigns.server.isFull": "{PREFIX} §cDieser Server ist voll§7!",
 	
 	"coins.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
-	"coins.addedCoins": "{PREFIX} §aYou have the player§6 #0# §e#1# Coins §agiven§7!",
-	"coins.removedCoins": "{PREFIX} §cYou have the player§6 #0# §e#1# Coins §cremoved§7!",
+	"coins.addedCoins": "{PREFIX} §aDu hast den Spieler§6 #0# §e#1# Coins §agegeben§7!",
+	"coins.removedCoins": "{PREFIX} §cDu hast den Spieler§6 #0# §e#1# Coins §centfernt§7!",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§7!",
