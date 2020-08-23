@@ -127,10 +127,7 @@
 	"cloudsigns.server.alreadyIngame": "{PREFIX} §cThis round has already started§7!",
 	"cloudsigns.server.isFull": "{PREFIX} §cThis Server is full§7!",
 	
-	"coins.player.giveCoins": "{PREFIX} §7You gave the Player §2{$player->getName()} §e{$geld}§2 Coins§7!",
-	"coins.give.provideNumber": "{PREFIX} §cPlease provide an number§7!",
-	"coins.give.notNull": "{PREFIX} §cProvide an number higher then §e0§7!",
-	"coins.money.see": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
+	"coins.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecasue of #1#§7!",
