@@ -127,10 +127,7 @@
 	"cloudsigns.server.alreadyIngame": "{PREFIX} §cDiese Runde hat bereits gestartet§7!",
 	"cloudsigns.server.isFull": "{PREFIX} §cDieser Server ist voll§7!",
 	
-	"coins.player.giveCoins": "{PREFIX} §7Du hast den Spieler §2#0# §e#1#§2 Coins §7gegeben!",
-	"coins.give.provideNumber": "{PREFIX} §cBitte gebe eine Zahl an§7!",
-	"coins.give.notNull": "{PREFIX} §cGebe eine nummer an die größer als §e0§c ist§7!",
-	"coins.money.see": "{PREFIX} §eDeine §aCoins§7:§e #0#§8!",
+	"coins.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§7!",
