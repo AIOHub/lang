@@ -42,6 +42,7 @@
 	"lobby.teleporter.button.bw": "§cBedWars",
 	"lobby.teleporter.button.cw": "§4Clan§fWars",
 	"lobby.teleporter.button.mlgrush": "§bMLGRush",
+	"lobby.teleporter.button.woolbattle": "§eWoolBattle",
 	
 	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
 	"lobby.hide.ui.content": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
