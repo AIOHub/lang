@@ -122,6 +122,8 @@
 	"mlgrush.leftQueue": "{PREFIX} §cDu hast die §eQueue§c verlassen§7!",
 	"mlgrush.challengedPlayer": "{PREFIX} §aDu hast§r #0# §eherausgefordert§7!",
 	"mlgrush.challengedBy": "{PREFIX} §aDu wurdest von§r #0#§e herausgefordert§7!",
+		
+	"woolbattle.waitingForPlayers": "{PREFIX} §7Warte auf weitere Spieler...",	
 	
 	"cloudsigns.noServer.found": "{PREFIX} §cEs wurde kein Server gefunden§7!",
 	"cloudsigns.server.isOffline": "{PREFIX} §cDieser Server ist aktuell offline§7!",
