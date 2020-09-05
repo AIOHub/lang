@@ -6,8 +6,8 @@
 	"values": {
 	"player.not.exists": "{PREFIX} §cDieser Spieler exestiert nicht§7!",
 		
-	"broadcaster.message.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@RoyaleGamesBE§r",
-	"broadcaster.message.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://royalegamesmc.be/discord/ §7bei!",
+	"broadcaster.message.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@StariaMC§r",
+	"broadcaster.message.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://StariaMC.com/discord/ §7bei!",
 	"broadcaster.message.3": "{PREFIX} §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen!",
 	
 	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
