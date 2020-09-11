@@ -6,8 +6,8 @@
 	"values": {
 	"player.not.exists": "{PREFIX} §cThis player don't exists§7!",
 		
-	"broadcaster.message.1": "{PREFIX} §7Follow us on §bTwitter §7below: §e@VeritayMC§r",
-	"broadcaster.message.2": "{PREFIX} §7Join our Discord under §ehttps://VeritayMC.com/discord/§7!",
+	"broadcaster.message.1": "{PREFIX} §7Follow us on §bTwitter §7below: §e@LytexMC§r",
+	"broadcaster.message.2": "{PREFIX} §7Join our Discord under §ehttps://LytexMC.net/discord/§7!",
 	"broadcaster.message.3": "{PREFIX} §7It is recommended to play with the §eClassic§7-§eUI§7!",	
 	
 	"message.cantSelectYourself": "{PREFIX} §cYou can't select yourself§7!",
