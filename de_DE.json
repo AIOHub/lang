@@ -156,7 +156,7 @@
 	"securitysystem.provideKickReason": "{PREFIX} §cBitte gebe einen Grund an§7!",
 	"securitysystem.cantKickYourself": "{PREFIX} §cDu kannst dich nicht selber kicken§7!",
 	"securitysystem.kickedPlayer": "{PREFIX} §aDu hast §e#0#§a wegen §e#1# §agekickt§7!",
-	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§7!"
+	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§7!",
 		
 	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7."	
 	}
