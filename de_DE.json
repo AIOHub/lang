@@ -10,6 +10,11 @@
 	"broadcaster.message.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://LytexMC.net/discord/ §7bei!",
 	"broadcaster.message.3": "{PREFIX} §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen!",
 	
+	"ui.title.stats": "§eStats",
+	"ui.title.spectate": "§eSpectate",
+	"ui.title.cosmetics": "§5Cosmetics",
+	"ui.title.teleporter": "§eTeleporter",
+	
 	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
 	
 	"game.hasWon": "{PREFIX} §aDu hast dieses §eSpiel §agewonnen§7!",

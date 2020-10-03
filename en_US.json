@@ -12,6 +12,11 @@
 	
 	"message.cantSelectYourself": "{PREFIX} §cYou can't select yourself§7!",
 	
+	"ui.title.stats": "§eStats",
+	"ui.title.spectate": "§eSpectate",
+	"ui.title.cosmetics": "§5Cosmetics",
+	"ui.title.teleporter": "§eTeleporter",
+	
 	"game.hasWon": "{PREFIX} §aYou have won this §eGame§7!",
 	"game.hasLose": "{PREFIX} §cYou have lose this §eGame§7!",
 	"game.server.isFull": "{PREFIX} §cThis server is currently full§7!",
