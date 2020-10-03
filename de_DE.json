@@ -169,6 +169,8 @@
 	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7.",
 	
 	"buildffa.message.killed": "{PREFIX} §aDu hast §r#0#§a getötet§7!",
-	"buildffa.message.killedBy": "{PREFIX} §cDu wurdest von §r#0#§c getötet§7!"
+	"buildffa.message.killedBy": "{PREFIX} §cDu wurdest von §r#0#§c getötet§7!",
+	
+	"core.cps.logged": "{PREFIX} §aDer §eCPS§8-§eLog§a von §e#0#§a wurde erfolgreich erstellt§7!\n§aSeine §eCPS§7: §e#1#\n§r§8!!§cDer Spieler darf nur gebannt werden wenn er 7000 CPS in 1 Minute hat§8!!§r"
 	}
 }
