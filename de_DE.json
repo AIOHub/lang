@@ -15,6 +15,8 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	
+	"ui.button.back": "§cZurück",
+	
 	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
 	
 	"game.hasWon": "{PREFIX} §aDu hast dieses §eSpiel §agewonnen§7!",
@@ -49,6 +51,7 @@
 	"lobby.teleporter.button.mlgrush": "§aMLGRush",
 	"lobby.teleporter.button.woolbattle": "§eWoolBattle",
 	"lobby.teleporter.button.gungame": "§bGunGame",	
+	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
 	
 	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
 	"lobby.hide.ui.content": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
@@ -163,6 +166,9 @@
 	"securitysystem.kickedPlayer": "{PREFIX} §aDu hast §e#0#§a wegen §e#1# §agekickt§7!",
 	"securitysystem.noAds": "{PREFIX} §cBitte sende keine Links§7!",
 		
-	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7."	
+	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7.",
+	
+	"buildffa.message.killed": "{PREFIX} §aDu hast §r#0#§a getötet§7!",
+	"buildffa.message.killedBy": "{PREFIX} §cDu wurdest von §r#0#§c getötet§7!"
 	}
 }

@@ -17,6 +17,8 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	
+	"ui.button.back": "§cBack",
+	
 	"game.hasWon": "{PREFIX} §aYou have won this §eGame§7!",
 	"game.hasLose": "{PREFIX} §cYou have lose this §eGame§7!",
 	"game.server.isFull": "{PREFIX} §cThis server is currently full§7!",
@@ -49,6 +51,7 @@
 	"lobby.teleporter.button.mlgrush": "§aMLGRush",
 	"lobby.teleporter.button.woolbattle": "§eWoolBattle",	
 	"lobby.teleporter.button.gungame": "§bGunGame",		
+	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
 	
 	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
 	"lobby.hide.ui.content": "{PREFIX} §cHide §7or §aShow §7all §ePlayers§7!",
@@ -163,6 +166,9 @@
 	"securitysystem.kickedPlayer": "{PREFIX} §aYou have kicked §e#0#§a because of §e#1#§7!",
 	"securitysystem.noAds": "{PREFIX} §cPlease don't send Links§7!",
 		
-	"reason.tooManyCPS": "{PREFIX}\n §cYou have too many §eCPS§7."	
+	"reason.tooManyCPS": "{PREFIX}\n §cYou have too many §eCPS§7.",
+
+	"buildffa.message.killed": "{PREFIX} §aYou have killed §r#0#§a§7!",
+	"buildffa.message.killedBy": "{PREFIX} §cYou was killed by §r#0#§7!"
 	}
 }
