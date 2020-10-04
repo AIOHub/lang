@@ -169,6 +169,8 @@
 	"reason.tooManyCPS": "{PREFIX}\n §cYou have too many §eCPS§7.",
 
 	"buildffa.message.killed": "{PREFIX} §aYou have killed §r#0#§a§7!",
-	"buildffa.message.killedBy": "{PREFIX} §cYou was killed by §r#0#§7!"
+	"buildffa.message.killedBy": "{PREFIX} §cYou was killed by §r#0#§7!",
+	
+	"core.cps.logged": "{PREFIX} §aThe §eCPS§8-§eLog§a of §e#0#§a was created§7!\n§aHis §eCPS§7: §e#1#\n§r§8!!§cThe player may only be banned if he has 7000 CPS in 1 minute§8!!§r"
 	}
 }
