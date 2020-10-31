@@ -1,5 +1,5 @@
 {
-	"PREFIX": "§8[§bVeritayMC§8] §r",
+	"PREFIX": "§8[§eCosmetics§6PE§8] §r",
 	"localeCode": "en_US",
 	"name": "English",
 	
@@ -144,7 +144,7 @@
 	"coins.removedCoins": "{PREFIX} §cYou have the player§6 #0# §e#1# Coins §cremoved§7!",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cYou can't ban §e#0#§7!",
-	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecasue of #1#§7!",
+	"securitysystem.banWasSuccessfull": "{PREFIX} §aYou have banned §e#0# §abecasue of §e#1#§7!",
 	"securitysystem.youCannotMuteBypass": "{PREFIX} §cYou can't mute §e#0#§7!",
 	"securitysystem.muteWasSuccessfull": "{PREFIX} §aYou have muted §e#0# §abecasue of §e#1#§7!",
 	"securitysystem.reportWasSuccessful": "{PREFIX} §aYou have reported §e#0# §abecasue of §e#1#§7!",
