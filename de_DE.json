@@ -4,6 +4,8 @@
 	"name": "Deutsch",
 	
 	"values": {
+		
+	"vote.supremeToVoter": "{PREFIX}§eDu hast §97 Tage §bSupreme §ebekommen, weil du 30 oder mehr Votes hast.\n§gViel Spaß damit§7!",
 	"player.not.exists": "{PREFIX} §cDieser Spieler exestiert nicht§7!",
 		
 	"broadcaster.message.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@LytexMC§r",
