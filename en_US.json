@@ -167,6 +167,8 @@
 	"securitysystem.cantKickYourself": "{PREFIX} §cYou can't kick yourself§7!",
 	"securitysystem.kickedPlayer": "{PREFIX} §aYou have kicked §e#0#§a because of §e#1#§7!",
 	"securitysystem.noAds": "{PREFIX} §cPlease don't send Links§7!",
+	"securitysystem.alreadyBanned": "{PREFIX} §cThis Player is already banned§7!",
+	"securitysystem.alreadyMuted": "{PREFIX} §cThis Player is already muted§7!",
 		
 	"reason.tooManyCPS": "{PREFIX}\n §cYou have too many §eCPS§7.",
 
