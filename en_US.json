@@ -1,5 +1,5 @@
 {
-	"PREFIX": "§8[§eAIO§6Hub§8] §r",
+	"PREFIX": "§8[§6Latuno§8] §r",
 	"localeCode": "en_US",
 	"name": "English",
 	
@@ -8,8 +8,8 @@
 	"vote.supremeToVoter": "{PREFIX}§eYou got §97 days §bSupreme §because you have 30 or more votes. \n§gGood fun with it§7!",
 	"player.not.exists": "{PREFIX} §cThis player don't exists§7!",
 		
-	"broadcaster.message.1": "{PREFIX} §7Follow us on §bTwitter §7below: §e@AIOHubNW§r",
-	"broadcaster.message.2": "{PREFIX} §7Join our Discord under §ehttps://AIOHub.BE/discord/§7!",
+	"broadcaster.message.1": "{PREFIX} §7Follow us on §bTwitter §7below: §e@LatunoNET§r",
+	"broadcaster.message.2": "{PREFIX} §7Join our Discord under §ehttp://Latuno.net/discord/§7!",
 	"broadcaster.message.3": "{PREFIX} §7It is recommended to play with the §eClassic§7-§eUI§7!",	
 	
 	"message.cantSelectYourself": "{PREFIX} §cYou can't select yourself§7!",
