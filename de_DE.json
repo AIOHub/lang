@@ -4,59 +4,65 @@
 	"name": "Deutsch",
 	
 	"values": {
-		
-	"vote.supremeToVoter": "{PREFIX}§eDu hast §97 Tage §bSupreme §ebekommen, weil du 30 oder mehr Votes hast.\n§gViel Spaß damit§7!",
-	"player.not.exists": "{PREFIX} §cDieser Spieler exestiert nicht§7!",
-		
-	"broadcaster.message.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@LatunoNET§r",
-	"broadcaster.message.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://Latuno.net/discord/ §7bei!",
-	"broadcaster.message.3": "{PREFIX} §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen!",
 	
+	"ui.title.clans": "§cClans",
 	"ui.title.stats": "§eStats",
 	"ui.title.spectate": "§eSpectate",
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
+	"ui.title.hidePlayer": "§eSpieler§r§7-§eVerstecken",
 	
+	"ui.text.playerHider": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
+	"ui.error.clans.alreadyExists": "§cDieser §eClan§c exestiert bereits§7.",
+	"ui.text.noPlayersFound": "§cEs wurden keine Spieler gefunden§7.",
+	
+	"ui.button.close": "§cSchließen",
+	"ui.button.accept": "§aAkzeptieren",
+	"ui.button.deny": "§cAblehnen",
+	"ui.button.confirm": "§aBestätigen",
+	"ui.button.abort": "§cAbbrechen",
 	"ui.button.back": "§cZurück",
 	
-	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
+	"ui.button.clans.search": "§7Suche einen §cClan",
+	"ui.button.clans.create": "§7Erstelle einen §cClan",
+	"ui.button.clans.invite": "§7Invite einen §eSpieler",
+	"ui.button.clans.requests": "§7Anfragen §8( §e#0#§8 )",
+	"ui.button.clans.info": "§7Clan Info",
+	"ui.button.clans.manage": "§7Verwalte deinen §eClan",
+	"ui.button.clans.leave": "§7Verlasse deinen §eClan",
 	
-	"game.hasWon": "{PREFIX} §aDu hast dieses §eSpiel §agewonnen§7!",
-	"game.hasLose": "{PREFIX} §cDu hast dieses §eSpiel §cverloren§7!",
-	"game.server.isFull": "{PREFIX} §cDieser Server ist momentan voll§7!",
-	"game.server.nowSpectator": "{PREFIX} §cDu bist nun Spectator§7!",
-	"game.server.noArena": "{PREFIX} §cKeine Arena erstellt§7!",
-	"game.server.joined": "{PREFIX} #0# §ahat diesen Server betreten§7!",
-	"game.server.restart.in": "{PREFIX} §7Der server restartet in §e#0#§7 Sekunden!",
-	"game.hasStarted": "{PREFIX} §aDie Runde hat begonnen§7!",
-	"game.play.onMap": "{PREFIX} §7Es wird auf der Map §b#0#§7 gespielt!",
-	"game.server.quit": "{PREFIX} #0# §ahat den Server verlassen§7!",
-	"game.server.isRestarting": "{PREFIX} §cDer Server startet bereits neu§7!",
-	"game.server.hasStarted": "{PREFIX} §aDiese Runde hat nun begonnen§7!",
-	"game.isPrivate": "{PREFIX} §cDu bekommst in dieser Runde keine §eStats§c und §eCoins§c\n§cda dies ein §ePrivate§7-§eServer§c ist§7!",
+	"ui.button.clans.manage.image": "§aWähle ein §eBild§a aus§7.",
+	"ui.button.clans.manage.tag_color": "§aWähle eine §eTag§7-§eFarbe",
+	"ui.button.clans.manage.clam_color": "§aWähle eine §eKlammer§7-§eFarbe",
+	"ui.button.clans.manage.members": "§dMitglieder",
+	"ui.button.clans.manage.delete": "§4Lösche den Clan",
+	
+	"message.lobby.hideAll": "{PREFIX} §cAlle §eSpieler§c sind nun §eunsichtbar§7!",
+	"message.lobby.showAll": "{PREFIX} §aAlle §eSpieler§a sind nun §esichtbar§7!",
+	
+	"message.broadcast.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@LatunoNET§r",
+	"message.broadcast.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://Latuno.net/discord/ §7bei.",
+	"message.broadcast.3": "{PREFIX} §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen.",
+	
+	"message.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
+	"message.addedCoins": "{PREFIX} §aDu hast den Spieler§6 #0# §e#1# Coins §agegeben§7!",
+	"message.removedCoins": "{PREFIX} §cDu hast den Spieler§6 #0# §e#1# Coins §centfernt§7!",
+	
+	"message.supremeToVoter": "{PREFIX}§eDu hast §97 Tage §bSupreme §ebekommen, weil du 30 oder mehr Votes hast.\n§gViel Spaß damit§7.",
+	"message.playerNotExists": "{PREFIX} §cDieser Spieler exestiert nicht§7.",
+    "message.notEnoughCoins": "{PREFIX} §cDu hast zu wenig Coins§7.",
+	
+	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
+	"message.clanWasCreated": "{PREFIX} §aDer Clan§e #0# §awurde mit den Tag §e#1#§a erstellt§7.",
+	"message.clanNotFound": "{PREFIX} §cDieser §eClan§c wurde nicht gefunden§7.",
+	"message.clanInviteSent": "{PREFIX} §aDu hast einen §eClan§8-§eInvite§a an §e#0# §aversendet§7.",
+	"message.clanInvite": "{PREFIX} §aDu hast einen §eClan§8-§eInvite§a von §e#0#§a erhalten§7!",
+	"message.clanLeft": "{PREFIX} §cDu hast den §eClan§c verlassen§7.",
+	
+	"message.joinQueue": "{PREFIX} §aDu bist der §eQueue §abeigetreten§7.",
+	"message.leftQueue": "{PREFIX} §cDu hast die §eQueue §cverlassen§7.",
 	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
-	
-	"lobby.no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
-	
-	"lobby.join.tip": "§8[§a+§8] §e#0#",
-	
-	"lobby.hide.invisible": "{PREFIX} §cAlle §eSpieler§c sind nun §eunsichtbar§7!",
-	"lobby.hide.visible": "{PREFIX} §aAlle §eSpieler§a sind nun §esichtbar§7!",
-	
-	"lobby.teleporter.ui.title": "{PREFIX} §l§6Teleporter",
-	"lobby.teleporter.ui.content": "{PREFIX} §aWähle ein Spielmodus aus§7!",
-	
-	"lobby.teleporter.button.spawn": "§l§7Spawn",
-	"lobby.teleporter.button.bw": "§cBedWars",
-	"lobby.teleporter.button.cw": "§4Clan§fWars",
-	"lobby.teleporter.button.mlgrush": "§aMLGRush",
-	"lobby.teleporter.button.woolbattle": "§eWoolBattle",
-	"lobby.teleporter.button.gungame": "§bGunGame",	
-	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
-	
-	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
-	"lobby.hide.ui.content": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
 	
 	"lobby.hide.button.show": "§aZeige alle §eSpieler",
 	"lobby.hide.button.hide": "§4Verstecke alle §eSpieler",
@@ -65,85 +71,28 @@
 	"lobby.ui.content.select.gadget": "{PREFIX} §eWähle ein §5Gadget§e aus§7!",
 	"lobby.gadget.ui.button.particle": "§dPartikel",
 	"lobby.gadget.ui.button.fly": "§eFly",
+    "lobby.gadget.ui.button.buyRanks": "§eKaufe einen §cRank",
 	
 	"lobby.gadgets.title.particles": "{PREFIX} §ePartikel",
 	
 	"lobby.fly.ui.title": "{PREFIX} §l§eFly",
 	"lobby.ui.content.select.fly.mode": "{PREFIX} §eAktiviere den §aFlug§7-§aModus§7!",
-	"lobby.fly.ui.button.enable": "§aAktiviere §eFly",
-	"lobby.fly.ui.button.disable": "§cDeaktiviere §eFly",
+	"ui.button.enableFly": "§aAktiviere §eFly",
+	"ui.button.disableFly": "§cDeaktiviere §eFly",
 	
 	"lobby.enable.fly": "{PREFIX} §aDu hast den §eFlug§7-§eModus§a aktiviert§7!",
 	"lobby.disable.fly": "{PREFIX} §cDu hast den §eFlug§7-§eModus§c deaktiviert§7!",
 	
 	"lobby.ui.title.updates": "{PREFIX} §eUpdates",
 	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
-	"lobby.ui.button.updates.close": "§4Schließen",
-	
-	"maintenance.ui.content": "{PREFIX}\n\n§l§cWir sind momentan in Wartungen§r§7!\n§l§cBitte versuche es später erneut§r§7!",
-	"maintenance.join.message": "{PREFIX} §cDu hast den Server während den §eWartungen§c betreten§7!",
-	"maintenance.toggle.on": "{PREFIX} §aDu hast den §emaintenance§7-§amode§a aktiviert§7!",
-	"maintenance.toggle.off": "{PREFIX} §cDu hast den §emaintenance§7-§amode§7§c deaktiviert!",
-	"maintenance.kick.reason": "{PREFIX} §cDu wurdest von den Server gekickt§7!\n§l§4Dieser Server ist in §eWartungen§r§7!",
-	
-	"clanwars.bed.destroyed": "{PREFIX} §7Das Bett von Team #0# §7wurde von§c #1#§7 zerstört!",
-	"clanwars.destroy.own.bed": "{PREFIX} §cDu kannst dein Bett nicht zerstören§7!",
-	"clanwars.noPlace.spawner": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§7!",
-	"clanwars.team.setSpawn": "{PREFIX} §cDu hast das Team #0#§c erstellt§7!\n§8(§cNächstes§7: #1# §8)",
-	"clanwars.player.rejoined": "{PREFIX} §7Der Spieler §2#0# §7ist den §eClanWars§7 wieder beigetreten!",
-	"clanwars.arena.killed": "{PREFIX} #0##1# §7wurde von #2##3#§7 getötet!",
-	"clanwars.arena.died": "{PREFIX} #0##1# §7ist gestorben!",
-	"clanwars.game.won": "{PREFIX} §aDu hast den §eClanWars §agewonnen§7!",
-	"clanwars.clan.elo.loose": "{PREFIX} §7Dein Clan hat §2#0#§7 elo verloren.",
-	"clanwars.clan.elo.win": "{PREFIX} §7Dein Clan hat §2#0#§7 elo gewonnen.",
-	"clanwar.game.started": "{PREFIX} §aDie runde hat gestartet§7!",
-	"clanwars.game.started.title": "{PREFIX} §l§aViel glück§8!",
-	"clanwar.queue.notEnoughPlayers": "{PREFIX} §7Du musst in einer Clan-Party !",
-	"clanwar.queue.notClanLeader": "{PREFIX} §cDu bist nicht der §eClan§7-§eLeader§7!",
-	"clanwar.queue.notInParty": "{PREFIX} §7Du musst in einer Clan-Party sein!",
-	"clanwar.queue.alreadyInClanWar": "{PREFIX} §cDein §eClan§c ist bereits in einen §eClanWar§7!",
-	"clanwar.queue.notInClan": "{PREFIX} §cDu bist in keinen Clan§7!",
-	"clanwar.queue.enemyClanFound": "{PREFIX} §7Ein gegnerischer Clan wurde gefunden!",
-
-	"bedwars.setup.setspawn": "{PREFIX} §cDu hast den Spawn von Team #0#§7 gesetzt!\n§8(§cNächstes§7: #1# §8)",
-	"bedwars.place.spawner": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§7!",
-	"bedwars.break.own.bed": "{PREFIX} §cDu kannst dein eigenes Bett nicht abbauen§7!",
-	"bedwars.team.full": "{PREFIX} §cDas Team§e #0# §cist bereits voll§7!",
-	"bedwars.team.joined": "{PREFIX} §aDu bist den Team§e #0# §abeigetreten§7!",
-	"bedwars.team.cantJoin": "{PREFIX} §cDu kannst den Team§e #0# §cnicht beitreten§7!",
-	"bedwars.arena.killed.by": "{PREFIX} #0# §7wurde von #1#§7 getötet!",
-	"bedwars.arena.killed.custom": "{PREFIX} #0# §7ist gestorben!",
-	"bedwars.menu.team.name": "{PREFIX} §eWechsel dein §bTeam§7!",
-	"bedwars.gold.button.withGold": "§aMit §6Gold§7!",
-	"bedwars.gold.button.withoutGold": "§cOhne §6Gold§7!",
-	"bedwars.itemdrop.button.withDrop": "§aMit §6Item§7-§6Drop§7!",
-	"bedwars.itemdrop.button.withoutDrop": "§cOhne §6Item§7-§6Drop§7!",
-	"bedwars.vote.message.withGold": "{PREFIX} §7Du möchtest mit §6Gold§7 spielen!",
-	"bedwars.vote.message.withoutGold": "{PREFIX} §7Du möchtest ohne §6Gold§7 spielen!",
-	"bedwars.vote.message.withDrop": "{PREFIX} §7Du möchtest mit §6Item§7-§6Drop§7 spielen!",
-	"bedwars.vote.message.withoutDrop": "{PREFIX} §7Du möchtest ohne §6Item§7-§6Drop§7 spielen!",
-	"bedwars.team.autoJoin": "{PREFIX} §7Du bist nun in Team§e #0#§7!",
-	"bedwars.arena.destroyBed": "{PREFIX} §7Das Bett von Team #0#§7 wurde von §e#1#§7 zerstört!",
-	"bedawars.arena.bedNotExists": "{PREFIX} §cDas Team exestiert nicht§7!\n§cDeshalb wurden dir keine Stats gutgeschrieben§7!",
-	
-	"mlgrush.allArenasFull": "{PREFIX} §cAlle Arenen sind voll§7!\n§cVersuche es später nochmal§7!",
-	"mlgrush.winBlue": "{PREFIX} §aDas Team §1BLAU §ahat gewonnen§7!",
-	"mlgrush.winRed": "{PREFIX} §aDas Team §4ROT §ahat gewonnen§7!",
-	"mlgrush.joinedQueue": "{PREFIX} §aDu hast die §eQueue§a betreten§7!",
-	"mlgrush.leftQueue": "{PREFIX} §cDu hast die §eQueue§c verlassen§7!",
-	"mlgrush.challengedPlayer": "{PREFIX} §aDu hast§r #0# §eherausgefordert§7!",
-	"mlgrush.challengedBy": "{PREFIX} §aDu wurdest von§r #0#§e herausgefordert§7!",
-		
-	"woolbattle.waitingForPlayers": "{PREFIX} §7Warte auf weitere Spieler...",	
-	
-	"cloudsigns.noServer.found": "{PREFIX} §cEs wurde kein Server gefunden§7!",
-	"cloudsigns.server.isOffline": "{PREFIX} §cDieser Server ist aktuell offline§7!",
-	"cloudsigns.server.alreadyIngame": "{PREFIX} §cDiese Runde hat bereits gestartet§7!",
-	"cloudsigns.server.isFull": "{PREFIX} §cDieser Server ist voll§7!",
-	
-	"coins.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#§8!",
-	"coins.addedCoins": "{PREFIX} §aDu hast den Spieler§6 #0# §e#1# Coins §agegeben§7!",
-	"coins.removedCoins": "{PREFIX} §cDu hast den Spieler§6 #0# §e#1# Coins §centfernt§7!",
+      
+    "lobby.buyRank.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
+      
+    "lobby.title.confirm.buyRank": "§7Bestätige deinen §eKauf",
+    "lobby.rank.bought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
+    "lobby.rank.buy.abort": "{PREFIX} §cDu hast den Kauf abgebrochen§7!",
+    "lobby.ui.content.confirm.Premium": "§7Die rechte für den §6Premium Rang§7:\n\n§8- §eDu kannst in der §bLobby §efliegen\n§8- §eDu besitzt alle §cPartikel §ein der §bLobby\n§8- §eDu kannst dich §dNicken\n\n§7Kosten§8:§e 30.000 Coins",
+	"lobby.ui.content.confirm.Supreme": "§7Die rechte für den §bSupreme Rang§7:\n\n§8- §eDu kannst MiniGames Starten\n§8- §eDu kannst eine Gruppe (Premium) für deinen Nickname auswählen\n§8- §eDu kannst JoinMe's erstellen\n§8- §eAlle Rechte des §6Premium§7-§6Rangs\n\n§7Kosten§8: §e150.000 Coins",
 	
 	"securitysystem.youCannotBanBypass": "{PREFIX} §cDu kannst §e#0#§c nicht bannen§7!",
 	"securitysystem.banWasSuccessfull": "{PREFIX} §aDu hast §e#0# §awegen§e #1#§a gebannt§7!",
@@ -171,9 +120,6 @@
 	"securitysystem.alreadyMuted": "{PREFIX} §cDieser Spieler ist bereits gemutet§7!",
 		
 	"reason.tooManyCPS": "{PREFIX}\n §cDu hast zu viele §eCPS§7.",
-	
-	"buildffa.message.killed": "{PREFIX} §aDu hast §r#0#§a getötet§7!",
-	"buildffa.message.killedBy": "{PREFIX} §cDu wurdest von §r#0#§c getötet§7!",
 	
 	"core.cps.logged": "{PREFIX} §aDer §eCPS§8-§eLog§a von §e#0#§a wurde erfolgreich erstellt§7!\n§aSeine §eCPS§7: §e#1#\n§r§8!!§cDer Spieler darf nur gebannt werden wenn er 7000 CPS in 1 Minute hat§8!!§r"
 	}
