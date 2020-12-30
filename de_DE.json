@@ -6,6 +6,7 @@
 	"values": {
 	
 	"ui.title.clans": "§cClans",
+	"ui.title.settings": "§cEinstellungen",
 	"ui.title.stats": "§eStats",
 	"ui.title.spectate": "§eSpectate",
 	"ui.title.cosmetics": "§5Cosmetics",
@@ -22,6 +23,8 @@
 	"ui.button.confirm": "§aBestätigen",
 	"ui.button.abort": "§cAbbrechen",
 	"ui.button.back": "§cZurück",
+	"ui.button.enable": "§aAn",
+	"ui.button.disable": "§cAus",
 	
 	"ui.button.clans.search": "§7Suche einen §cClan",
 	"ui.button.clans.create": "§7Erstelle einen §cClan",
@@ -62,16 +65,25 @@
 	"message.joinQueue": "{PREFIX} §aDu bist der §eQueue §abeigetreten§7.",
 	"message.leftQueue": "{PREFIX} §cDu hast die §eQueue §cverlassen§7.",
 	
+	"message.cloudOffline": "{PREFIX} §cDieser §eServer§c ist momentan §4offline§8.",
+	"message.cloudRunning": "{PREFIX} §cDiese §eRunde §chat bereits gestartet§8.",
+	"message.cloudMaintenance": "{PREFIX} §cDieser §eServer§c ist momentan in §4Wartungen§8.",
+	"message.cloudStaff": "{PREFIX} §cDieser §eServer§c ist nur für §1Teammitglieder§8.",
+	"message.cloudBeta": "{PREFIX} §cDieser §eServer§c ist nur für §1Teammitglieder§8.",
+	"message.cloudYoutuber": "{PREFIX} §cDieser §eServer§c ist nur für §5YouTuber§8.",
+	"message.cloudPremium": "{PREFIX} §cDieser §eServer§c ist nur für §6Premium Spieler§8.",
+	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
 	
 	"lobby.hide.button.show": "§aZeige alle §eSpieler",
 	"lobby.hide.button.hide": "§4Verstecke alle §eSpieler",
 	
-	"lobby.gadget.ui.title": "§l§5Gadgets",
 	"lobby.ui.content.select.gadget": "§eWähle ein §5Gadget§e aus§7!",
 	"lobby.gadget.ui.button.particle": "§dPartikel",
 	"lobby.gadget.ui.button.fly": "§eFly",
     "lobby.gadget.ui.button.buyRanks": "§eKaufe einen §cRank",
+	
+	"lobby.settings.button.scoreboard": "§dScoreboard",
 	
 	"lobby.gadgets.title.particles": "§ePartikel",
 	
