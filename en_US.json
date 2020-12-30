@@ -34,6 +34,11 @@
 	"raw.team.gold": "§gGold",
 	"raw.team.gold.color": "§g",
 	
+	"raw.map": "Map",
+	"raw.gold": "Gold",
+	"raw.drops": "Drops",
+	"raw.ranked": "Ranked",
+	
 	"ui.title.settings": "§cSettings",
 	"ui.title.clans": "§cClans",
 	"ui.title.stats": "§eStats",
