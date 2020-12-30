@@ -5,6 +5,35 @@
 	
 	"values": {
 	
+	"raw.team.blue": "§1Blue",
+	"raw.team.blue.color": "§1",
+	"raw.team.green": "§2Green",
+	"raw.team.green.color": "§2",
+	"raw.team.cyan": "§3Cyan",
+	"raw.team.cyan.color": "§3",
+	"raw.team.red": "§4Red",
+	"raw.team.red.color": "§4",
+	"raw.team.purple": "§5Purple",
+	"raw.team.purple.color": "§5",
+	"raw.team.orange": "§6Orange",
+	"raw.team.orange.color": "§6",
+	"raw.team.gray": "§8Green",
+	"raw.team.gray.color": "§8",
+	"raw.team.black": "§0Black",
+	"raw.team.black.color": "§0",
+	"raw.team.lime": "§aLime",
+	"raw.team.lime.color": "§a",
+	"raw.team.aqua": "§bAqua",
+	"raw.team.aqua.color": "§b",
+	"raw.team.pink": "§dPink",
+	"raw.team.pink.color": "§d",
+	"raw.team.yellow": "§eYellow",
+	"raw.team.yellow.color": "§e",
+	"raw.team.white": "§fWhite",
+	"raw.team.white.color": "§f",
+	"raw.team.gold": "§gGold",
+	"raw.team.gold.color": "§g",
+	
 	"ui.title.settings": "§cSettings",
 	"ui.title.clans": "§cClans",
 	"ui.title.stats": "§eStats",
@@ -12,6 +41,9 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	"ui.title.hidePlayer": "§ePlayer§r§7-§eHider",
+	
+	"ui.text.voteForDrops": "§7Item Drops",
+	"ui.text.voteForGold": "§6Gold Voting",
 	
 	"ui.text.playerHider": "{PREFIX} §cHide §7or §ashow §7all §ePlayers§7!",
 	"ui.error.clans.alreadyExists": "§cThis §eClan§c already exists§7.",
@@ -46,6 +78,17 @@
 	"message.broadcast.1": "{PREFIX} §7Follow us on §bTwitter§7: §e@LatunoNET§r",
 	"message.broadcast.2": "{PREFIX} §7Join our Discord under §ehttps://Latuno.net/discord/§7.",
 	"message.broadcast.3": "{PREFIX} §7It is recommended to play with the §eClassic§7-§eUI §7.",
+	
+	"message.alreadyInTeam": "{PREFIX} §cYou are already in this §dTeam§8.",
+	"message.teamIsFull": "{PREFIX} §cThis §dTeam§c is already full§8.",
+	"message.notInGame": "{PREFIX} §4You are not §cInGame§8.",
+	
+	"message.alreadyVoted": "{PREFIX} §cYou have already voted§8.",
+	"message.voteForItemDrops": "{PREFIX} §aYou have voted for §7Item Drops§8.",
+	"message.devoteForItemDrops": "{PREFIX} §cYou have voted against §7Item Drops§8.",
+	
+	"message.voteForGold": "{PREFIX} §aYou have voted for §6Gold§8.",
+	"message.devoteForGold": "{PREFIX} §cYou have voted against §6Gold§8.",
 	
 	"message.ownCoins": "{PREFIX} §eYour §aCoins§7:§e #0#",
 	"message.addedCoins": "{PREFIX} §aYou have the player §6#0# §e#1# Coins §agiven§7!",

@@ -5,6 +5,35 @@
 	
 	"values": {
 	
+	"raw.team.blue": "§1Blau",
+	"raw.team.blue.color": "§1",
+	"raw.team.green": "§2Grün",
+	"raw.team.green.color": "§2",
+	"raw.team.cyan": "§3Türkis",
+	"raw.team.cyan.color": "§3",
+	"raw.team.red": "§4Rot",
+	"raw.team.red.color": "§4",
+	"raw.team.purple": "§5Violett",
+	"raw.team.purple.color": "§5",
+	"raw.team.orange": "§6Orange",
+	"raw.team.orange.color": "§6",
+	"raw.team.gray": "§8Grau",
+	"raw.team.gray.color": "§8",
+	"raw.team.black": "§0Schwarz",
+	"raw.team.black.color": "§0",
+	"raw.team.lime": "§aLime",
+	"raw.team.lime.color": "§a",
+	"raw.team.aqua": "§bAqua",
+	"raw.team.aqua.color": "§b",
+	"raw.team.pink": "§dPink",
+	"raw.team.pink.color": "§d",
+	"raw.team.yellow": "§eGelb",
+	"raw.team.yellow.color": "§e",
+	"raw.team.white": "§fWeiß",
+	"raw.team.white.color": "§f",
+	"raw.team.gold": "§gGold",
+	"raw.team.gold.color": "§g",
+	
 	"ui.title.clans": "§cClans",
 	"ui.title.settings": "§cEinstellungen",
 	"ui.title.stats": "§eStats",
@@ -12,6 +41,9 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	"ui.title.hidePlayer": "§eSpieler§r§7-§eVerstecken",
+	
+	"ui.text.voteForDrops": "§7Item Drops",
+	"ui.text.voteForGold": "§6Gold Voting",
 	
 	"ui.text.playerHider": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
 	"ui.error.clans.alreadyExists": "§cDieser §eClan§c exestiert bereits§7.",
@@ -42,6 +74,14 @@
 	
 	"message.lobby.hideAll": "{PREFIX} §cAlle §eSpieler§c sind nun §eunsichtbar§7!",
 	"message.lobby.showAll": "{PREFIX} §aAlle §eSpieler§a sind nun §esichtbar§7!",
+	
+	"message.alreadyInTeam": "{PREFIX} §cDu bist bereits in diesen §dTeam§8.",
+	"message.teamIsFull": "{PREFIX} §cDieses §dTeam§c ist bereits voll§8.",
+	"message.notInGame": "{PREFIX} §4Du bist nicht §cInGame§8.",
+	
+	"message.alreadyVoted": "{PREFIX} §cDu hast bereits gevotet§8.",
+	"message.voteForItemDrops": "{PREFIX} §aDu hast für §7Item Drops §agevotet§8.",
+	"message.devoteForItemDrops": "{PREFIX} §cDu hast gegen §7Item Drops §cgevotet§8.",
 	
 	"message.broadcast.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@LatunoNET§r",
 	"message.broadcast.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://Latuno.net/discord/ §7bei.",
