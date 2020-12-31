@@ -113,6 +113,7 @@
 	"message.joinQueue": "{PREFIX} §aYou have joined the §eQueue§7.",
 	"message.leftQueue": "{PREFIX} §cYou have left the §eQueue§7.",
 	
+	"message.cloudNoServer": "{PREFIX} §cNo Server found§8.",
 	"message.cloudOffline": "{PREFIX} §cThis §eServer§c is currently §4offline§8.",
 	"message.cloudRunning": "{PREFIX} §cThis §eRound §chas already started§8.",
 	"message.cloudMaintenance": "{PREFIX} §cThis §eServer§c is currently under §4Maintenance§8.",

@@ -110,6 +110,7 @@
 	"message.joinQueue": "{PREFIX} §aDu bist der §eQueue §abeigetreten§7.",
 	"message.leftQueue": "{PREFIX} §cDu hast die §eQueue §cverlassen§7.",
 	
+	"message.cloudNoServer": "{PREFIX} §cKein Server gefunden§8.",
 	"message.cloudOffline": "{PREFIX} §cDieser §eServer§c ist momentan §4offline§8.",
 	"message.cloudRunning": "{PREFIX} §cDiese §eRunde §chat bereits gestartet§8.",
 	"message.cloudMaintenance": "{PREFIX} §cDieser §eServer§c ist momentan in §4Wartungen§8.",
