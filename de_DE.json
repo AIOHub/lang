@@ -144,6 +144,13 @@
 	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
       
     "lobby.buyRank.alreadyHasRank": "{PREFIX} §cDu hast diesen §eRang§c bereits§7.",
+	
+	"lobby.teleporter.button.spawn": "§l§7Spawn",
+	"lobby.teleporter.button.bw": "§cBedWars",
+	"lobby.teleporter.button.training": "§dTraining\n§8( §eWoolBattle §7/ §bMLGRush§7 / §eSpeedCW§8 )",	
+	"lobby.teleporter.button.gungame": "§bGunGame",		
+	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
+	"lobby.teleporter.button.pvpmode": "§2PvP\n§8( §eSumoPvP §7/ §dArenaPvP§7 / §aQSG§8 )",
       
     "lobby.title.confirm.buyRank": "§7Bestätige deinen §eKauf",
     "lobby.rank.bought": "{PREFIX} §aDu hast dir den Rank #0# §agekauft§7!",
