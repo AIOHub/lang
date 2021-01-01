@@ -39,6 +39,17 @@
 	"raw.drops": "Drops",
 	"raw.ranked": "Ranked",
 	
+	"bedwars.category.fast": "Rush",
+	"bedwars.category.pickaxes": "Pickaxes",
+	"bedwars.category.blocks": "Blocks",
+	"bedwars.category.armor": "Armor",
+	"bedwars.category.weapons": "Weapons",
+	"bedwars.category.bows": "Bows",
+	"bedwars.category.food": "Food",
+	"bedwars.category.misc": "Misc",
+	
+	"item.lore.price": "§r§aPrice: #0##1#x #2#",
+	
 	"ui.title.settings": "§cSettings",
 	"ui.title.clans": "§cClans",
 	"ui.title.stats": "§eStats",
@@ -46,6 +57,11 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	"ui.title.hidePlayer": "§ePlayer§r§7-§eHider",
+	
+	"ui.title.purchase.newShop": "§cBuy a Shop",
+	"ui.title.purchase.newStick": "§cBuy a Stick",
+	
+	"ui.text.purchase": "§cBuy stuff here for a good BedWars round§8.",
 	
 	"ui.text.voteForDrops": "§7Item Drops",
 	"ui.text.voteForGold": "§6Gold Voting",
@@ -121,6 +137,22 @@
 	"message.cloudBeta": "{PREFIX} §cThis §eServer§c is only for §aBeta Tester§8.",
 	"message.cloudYoutuber": "{PREFIX} §cThis §eServer§c is only for §5YouTuber§8.",
 	"message.cloudPremium": "{PREFIX} §cThis §eServer§c is only for §6Premium Player§8.",
+	
+	"message.playerDied": "{PREFIX} §cThe Player§r #0# §cdied§8.",
+	"message.youKilled": "{PREFIX} §aYou have killed§r #0#§8.",
+	"message.youKilledBy": "{PREFIX} §cYou was killed by§r #0#§8.",
+	"message.playerKilledBy": "{PREFIX} §cThe Player§r #0# §cwas killed by§r #1#§8.",
+	"message.youAreDead": "{PREFIX} §cYou are eliminated because your bed no longer exists§8.",
+	"message.youDied": "{PREFIX} §cYou died§8.",
+	
+	"message.settingsWasSaved": "{PREFIX} §aYour §eSettings§a was saved§8.",
+	"message.settingsSavedError": "{PREFIX} §cYour §eSettings§c could not be saved§8.",
+	
+	"message.shopWasSuccessfulChanged": "{PREFIX} §aYour Shop was changed§8.",
+	"message.shopWasNotChanged": "{PREFIX} §cYour Shop was not changed§8.",
+	
+	"message.stickWasSuccessfulChanged": "{PREFIX} §aYour Stick was changed§8.",
+	"message.stickWasNotChanged": "{PREFIX} §cYour Stick was not changed§8.",
 	
 	"no.perms": "§cYou don't have the permissions to do this§7!",
 	

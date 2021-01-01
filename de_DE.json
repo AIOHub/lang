@@ -39,6 +39,17 @@
 	"raw.drops": "Drops",
 	"raw.ranked": "Ranked",
 	
+	"bedwars.category.fast": "Rush",
+	"bedwars.category.pickaxes": "Spitzhacken",
+	"bedwars.category.blocks": "Blöcke",
+	"bedwars.category.armor": "Rüstung",
+	"bedwars.category.weapons": "Waffen",
+	"bedwars.category.bows": "Bögen",
+	"bedwars.category.food": "Essen",
+	"bedwars.category.misc": "Sonstiges",
+	
+	"item.lore.price": "§r§aPreis: #0##1#x #2#",
+	
 	"ui.title.clans": "§cClans",
 	"ui.title.settings": "§cEinstellungen",
 	"ui.title.stats": "§eStats",
@@ -46,6 +57,11 @@
 	"ui.title.cosmetics": "§5Cosmetics",
 	"ui.title.teleporter": "§eTeleporter",
 	"ui.title.hidePlayer": "§eSpieler§r§7-§eVerstecken",
+	
+	"ui.title.purchase.newShop": "§cKaufe einen Shop",
+	"ui.title.purchase.newStick": "§cKaufe einen Stick",
+	
+	"ui.text.purchase": "§cKaufe dir hier sachen für eine gute BedWars runde§8.",
 	
 	"ui.text.voteForDrops": "§7Item Drops",
 	"ui.text.voteForGold": "§6Gold Voting",
@@ -62,6 +78,11 @@
 	"ui.button.back": "§cZurück",
 	"ui.button.enable": "§aAn",
 	"ui.button.disable": "§cAus",
+	
+	"ui.button.settings": "§cEinstellungen",
+	"ui.button.maps": "§dMaps",
+	"ui.button.chooseShopMethod": "§7Wähle einen Shop",
+	"ui.button.showCoordinates": "§7Zeige deine Coordinaten",
 	
 	"ui.button.clans.search": "§7Suche einen §cClan",
 	"ui.button.clans.create": "§7Erstelle einen §cClan",
@@ -118,6 +139,22 @@
 	"message.cloudBeta": "{PREFIX} §cDieser §eServer§c ist nur für §1Teammitglieder§8.",
 	"message.cloudYoutuber": "{PREFIX} §cDieser §eServer§c ist nur für §5YouTuber§8.",
 	"message.cloudPremium": "{PREFIX} §cDieser §eServer§c ist nur für §6Premium Spieler§8.",
+	
+	"message.playerDied": "{PREFIX} §cDer Spieler§r #0# §cist gestorben§8.",
+	"message.youKilled": "{PREFIX} §aDu hast§r #0# §agetötet§8.",
+	"message.youKilledBy": "{PREFIX} §cDu wurdest von§r #0# §cgetötet§8.",
+	"message.playerKilledBy": "{PREFIX} §cDer Spieler§r #0# §cwurde von§r #1# §cgetötet§8.",
+	"message.youAreDead": "{PREFIX} §cDu bist ausgeschieden, da dein Bett nicht mehr exestiert§8.",
+	"message.youDied": "{PREFIX} §cDu bist gestorben§8.",
+	
+	"message.settingsWasSaved": "{PREFIX} §aDeine §eEinstellungen§a wurden gespeichert§8.",
+	"message.settingsSavedError": "{PREFIX} §cDeine §eEinstellungen§c konnten nicht gespeichert werden§8.",
+	
+	"message.shopWasSuccessfulChanged": "{PREFIX} §aDein Shop wurde erfolgreich geändert§8.",
+	"message.shopWasNotChanged": "{PREFIX} §cDein Shop wurde nicht geändert§8.",
+	
+	"message.stickWasSuccessfulChanged": "{PREFIX} §aDein Stick wurde erfolgreich geändert§8.",
+	"message.stickWasNotChanged": "{PREFIX} §cDein Stick wurde nicht geändert§8.",
 	
 	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
 	
