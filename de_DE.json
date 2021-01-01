@@ -39,6 +39,9 @@
 	"raw.drops": "Drops",
 	"raw.ranked": "Ranked",
 	
+	"raw.players": "§7Spieler",
+	"raw.waiting": "§7Warten",
+	
 	"bedwars.category.fast": "Rush",
 	"bedwars.category.pickaxes": "Spitzhacken",
 	"bedwars.category.blocks": "Blöcke",
@@ -60,6 +63,8 @@
 	
 	"ui.title.purchase.newShop": "§cKaufe einen Shop",
 	"ui.title.purchase.newStick": "§cKaufe einen Stick",
+	
+	"ui.text.playersPerTeam": "§2Spieler pro Team",
 	
 	"ui.text.purchase": "§cKaufe dir hier sachen für eine gute BedWars runde§8.",
 	"ui.text.stats.bedwars": "§eRunden: §9#0#\n§eKills: §9#1#\n§eTode: §9#2#\n§eK/D: §9#3#\n§eGewonnene Spiele: §9#4#\n§eVerloren: §9#5#\n§eZerstörte Betten: §9#6#\n\n§eWin-Chance: §9#7#",
