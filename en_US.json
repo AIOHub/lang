@@ -4,6 +4,8 @@
 	"name": "English",
 	
 	"values": {
+		
+	"raw.coins": "§eCoins",
 	
 	"raw.blue": "§1Blue",
 	"raw.blue.color": "§1",
