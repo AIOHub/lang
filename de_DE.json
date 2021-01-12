@@ -5,6 +5,8 @@
 	
 	"values": {
 	
+	"raw.coins": "§eCoins",
+		
 	"raw.blue": "§1Blau",
 	"raw.blue.color": "§1",
 	"raw.green": "§2Grün",
