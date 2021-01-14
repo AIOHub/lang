@@ -4,6 +4,8 @@
 	"name": "Deutsch",
 	
 	"values": {
+		
+	"coins.ownCoins": "{PREFIX} §aDu hast §e#0# §aCoins§8.",
 	
 	"raw.coins": "§eCoins",
 		
