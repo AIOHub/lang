@@ -198,10 +198,14 @@
 	
 	"lobby.teleporter.button.spawn": "§l§7Spawn",
 	"lobby.teleporter.button.bw": "§cBedWars",
-	"lobby.teleporter.button.training": "§dTraining\n§8( §eWoolBattle §7/ §bMLGRush§7 / §eSpeedCW§8 )",	
-	"lobby.teleporter.button.gungame": "§bGunGame",		
-	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
-	"lobby.teleporter.button.pvpmode": "§2PvP\n§8( §eSumoPvP §7/ §dArenaPvP§7 / §aQSG§8 )",
+	"lobby.teleporter.button.mlgrush": "§bMLGRush",
+	"lobby.teleporter.button.gungame": "§bGunGame",
+	"lobby.teleporter.button.ffa": "§eFFA§8-§eModes",
+	"lobby.teleporter.button.sumopvp": "§eSumoPvP",
+	"lobby.teleporter.button.woolbattle": "§2WoolBattle",
+	"lobby.teleporter.button.getdown_qsg": "§6GetDown §8+ §3QSG",
+	"lobby.teleporter.button.speedcw": "§dSpeedCW",
+	"lobby.teleporter.button.cores": "§bCores",
       
     "lobby.title.confirm.buyRank": "§cConfirm your §epurchase",
     "lobby.rank.bought": "{PREFIX} §aYou have the rank #0# §asuccessfully bought§7!",
